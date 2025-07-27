@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "madame_idle",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "madame","frame": 0}
+            ]
+        },
+        {
+            "key": "madame_jump",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "madame","frame": 1}
+            ]
+        }
+    ]
+}

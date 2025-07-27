@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "neko_idle",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "neko","frame": 0}
+            ]
+        },
+        {
+            "key": "neko_jump",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "neko","frame": 1}
+            ]
+        }
+    ]
+}

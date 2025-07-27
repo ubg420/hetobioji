@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "oji_idle",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "oji","frame": 0}
+            ]
+        },
+        {
+            "key": "oji_jump",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "oji","frame": 1}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "gold_idle",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "gold","frame": 0}
+            ]
+        },
+        {
+            "key": "gold_jump",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "gold","frame": 1}
+            ]
+        }
+    ]
+}

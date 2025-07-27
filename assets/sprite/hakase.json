@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "hakase_idle",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "hakase","frame": 0}
+            ]
+        },
+        {
+            "key": "hakase_jump",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "hakase","frame": 1}
+            ]
+        }
+    ]
+}

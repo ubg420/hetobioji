@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "off",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "selectButton","frame": 0}
+            ]
+        },
+        {
+            "key": "on",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "selectButton","frame": 1}
+            ]
+        }
+    ]
+}

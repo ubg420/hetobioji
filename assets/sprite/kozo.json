@@ -1,0 +1,20 @@
+{
+    "anims": [
+        {
+            "key": "kozo_idle",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "kozo","frame": 0}
+            ]
+        },
+        {
+            "key": "kozo_jump",
+            "frameRate": 3,
+            "repeat": -1,
+            "frames": [
+                { "key": "kozo","frame": 1}
+            ]
+        }
+    ]
+}
